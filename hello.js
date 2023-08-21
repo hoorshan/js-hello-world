@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+
+console.log("Tahoora, Khursheed!"); //Message with a semi colon
+
 
 /*  
 Next, PLAY! 
@@ -20,3 +23,14 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
    9. Other. You choose!
 */
+
+console.log("Tahoora, Khursheed!"); //Message with a semi colon
+console.log("Tahoora, Khursheed!") // Message without a semi colon
+
+console.log(10); //Printing a number
+
+console.log("First number is " + 2); 
+console.log("Second number is " + 3);
+console.log("Sum of the above two number are " + (2+3)); //Addition of two numbers
+console.log('Hi, my name is Tahoora Khursheed' + ' & I am here to learn the coding with Launch code');
+console.log('"Nevermore"'); //
